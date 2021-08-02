@@ -1,2 +1,2 @@
-# 300-project
+# ENEL300-TemperatureRegulator
 Tristan did this
